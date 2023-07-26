@@ -1,0 +1,379 @@
+[20:58:09.749353] Starting with image City3.png in folder source
+[20:58:09.776451] Starting with image Colour10.png in folder source
+[20:58:09.797394] Starting with image Colour9.png in folder source
+[20:58:09.802381] Starting with image LandWater1.png in folder source
+[20:58:09.892141] Starting with image Misc6.png in folder source
+[20:58:09.871198] Starting with image LandWater2.png in folder source
+[20:58:09.896131] Starting with image Mountains23.png in folder source
+[20:58:10.114987] Starting with image Mountains26.png in folder source
+[20:58:10.877175] Done with image Mountains23.png
+[20:58:10.954222] Starting with image Mountains27.png in folder source
+[20:58:11.976681] Done with image City3.png
+[20:58:12.056634] Starting with image Nature14.png in folder source
+[20:58:12.093604] Done with image LandWater1.png
+[20:58:12.243874] Starting with image Nature6.png in folder source
+[20:58:12.670018] Done with image Mountains26.png
+[20:58:12.778685] Starting with image wall0.png in folder source
+[20:58:13.064595] Done with image Nature14.png
+[20:58:13.082548] Done with image LandWater2.png
+[20:58:13.117454] Starting with image Mountains8.jpeg in folder source
+[20:58:13.112468] Starting with image l4PfTU5.jpeg in folder source
+[20:58:13.067588] Done with image Misc6.png
+[20:58:13.270274] Starting with image 2008_000001.jpg in folder source
+[20:58:13.321181] Done with image 2008_000001.jpg
+[20:58:13.344121] Starting with image 2008_000004.jpg in folder source
+[20:58:13.389067] Done with image 2008_000004.jpg
+[20:58:13.426033] Starting with image 2008_000005.jpg in folder source
+[20:58:13.459011] Done with image 2008_000005.jpg
+[20:58:13.484112] Starting with image 2008_000006.jpg in folder source
+[20:58:13.338136] Done with image Mountains8.jpeg
+[20:58:13.561903] Starting with image 2008_000010.jpg in folder source
+[20:58:13.616215] Done with image Colour9.png
+[20:58:13.643143] Starting with image 2008_000011.jpg in folder source
+[20:58:13.663090] Done with image 2008_000011.jpg
+[20:58:13.668077] Starting with image 2008_000012.jpg in folder source
+[20:58:13.535973] Done with image 2008_000006.jpg
+[20:58:13.676056] Starting with image 2008_000013.jpg in folder source
+[20:58:13.479124] Done with image wall0.png
+[20:58:13.707970] Done with image Colour10.png
+[20:58:13.687026] Done with image 2008_000012.jpg
+[20:58:13.714952] Starting with image 2008_000017.jpg in folder source
+[20:58:13.703982] Done with image 2008_000013.jpg
+[20:58:13.721933] Starting with image 2008_000030.jpg in folder source
+[20:58:13.628184] Done with image 2008_000010.jpg
+[20:58:13.734898] Starting with image 2008_000031.jpg in folder source
+[20:58:13.739886] Done with image 2008_000030.jpg
+[20:58:13.741880] Starting with image 2008_000035.jpg in folder source
+[20:58:13.732904] Done with image 2008_000017.jpg
+[20:58:13.745870] Starting with image 2008_000038.jpg in folder source
+[20:58:13.761827] Done with image 2008_000035.jpg
+[20:58:13.763821] Starting with image 2008_000039.jpg in folder source
+[20:58:13.609233] Done with image Nature6.png
+[20:58:13.780777] Done with image 2008_000038.jpg
+[20:58:13.784765] Starting with image 2008_000040.jpg in folder source
+[20:58:13.708967] Starting with image 2008_000014.jpg in folder source
+[20:58:13.804711] Done with image 2008_000014.jpg
+[20:58:13.757837] Done with image 2008_000031.jpg
+[20:58:13.809699] Starting with image 2008_000047.jpg in folder source
+[20:58:13.720936] Starting with image 2008_000029.jpg in folder source
+[20:58:13.806707] Done with image 2008_000040.jpg
+[20:58:13.830643] Done with image 2008_000029.jpg
+[20:58:13.784765] Done with image 2008_000039.jpg
+[20:58:13.835629] Starting with image 2008_000063.jpg in folder source
+[20:58:13.832637] Done with image 2008_000047.jpg
+[20:58:13.842610] Starting with image 2008_000068.jpg in folder source
+[20:58:13.860563] Done with image 2008_000063.jpg
+[20:58:13.862557] Starting with image 2008_000069.jpg in folder source
+[20:58:13.785763] Starting with image 2008_000044.jpg in folder source
+[20:58:13.832637] Starting with image 2008_000061.jpg in folder source
+[20:58:13.881507] Done with image 2008_000069.jpg
+[20:58:13.890482] Starting with image 2008_000071.jpg in folder source
+[20:58:13.837625] Starting with image 2008_000065.jpg in folder source
+[20:58:13.806707] Starting with image 2008_000046.jpg in folder source
+[20:58:13.935363] Done with image 2008_000065.jpg
+[20:58:13.937357] Starting with image 2008_000072.jpg in folder source
+[20:58:13.921401] Done with image 2008_000071.jpg
+[20:58:13.888488] Done with image 2008_000044.jpg
+[20:58:13.893475] Done with image 2008_000061.jpg
+[20:58:13.951319] Done with image 2008_000072.jpg
+[20:58:13.947331] Done with image 2008_000046.jpg
+[20:58:13.942345] Starting with image 2008_000077.jpg in folder source
+[20:58:13.865550] Done with image 2008_000068.jpg
+[20:58:13.951319] Starting with image 2008_000079.jpg in folder source
+[20:58:13.951319] Starting with image 2008_000081.jpg in folder source
+[20:58:13.958301] Starting with image 2008_000098.jpg in folder source
+[20:58:13.966279] Done with image 2008_000077.jpg
+[20:58:13.953314] Starting with image 2008_000092.jpg in folder source
+[20:58:13.953314] Starting with image 2008_000094.jpg in folder source
+[20:58:13.986227] Done with image 2008_000098.jpg
+[20:58:13.993208] Starting with image 2008_000101.jpg in folder source
+[20:58:14.006173] Done with image 2008_000094.jpg
+[20:58:14.008168] Starting with image 2008_000102.jpg in folder source
+[20:58:13.997198] Done with image 2008_000092.jpg
+[20:58:14.021134] Starting with image 2008_000104.jpg in folder source
+[20:58:13.982238] Done with image 2008_000079.jpg
+[20:58:14.035095] Done with image 2008_000102.jpg
+[20:58:14.040084] Starting with image 2008_000108.jpg in folder source
+[20:58:14.043075] Done with image 2008_000104.jpg
+[20:58:14.046066] Starting with image 2008_000110.jpg in folder source
+[20:58:14.019139] Done with image 2008_000101.jpg
+[20:58:14.059033] Done with image 2008_000108.jpg
+[20:58:14.058034] Done with image l4PfTU5.jpeg
+[20:58:13.982238] Done with image 2008_000081.jpg
+[20:58:14.037090] Starting with image 2008_000106.jpg in folder source
+[20:58:13.969272] Starting with image 2008_000100.jpg in folder source
+[20:58:14.062024] Starting with image 2008_000121.jpg in folder source
+[20:58:14.067011] Starting with image 2008_000122.jpg in folder source
+[20:58:14.088952] Done with image 2008_000100.jpg
+[20:58:14.076984] Done with image 2008_000110.jpg
+[20:58:14.073992] Starting with image 2008_000125.jpg in folder source
+[20:58:14.090947] Starting with image 2008_000126.jpg in folder source
+[20:58:14.102915] Done with image 2008_000125.jpg
+[20:58:14.103913] Starting with image 2008_000129.jpg in folder source
+[20:58:14.104910] Done with image 2008_000126.jpg
+[20:58:14.105907] Starting with image 2008_000130.jpg in folder source
+[20:58:14.069005] Starting with image 2008_000124.jpg in folder source
+[20:58:14.090947] Starting with image 2008_000127.jpg in folder source
+[20:58:14.121864] Done with image 2008_000130.jpg
+[20:58:14.123859] Starting with image 2008_000135.jpg in folder source
+[20:58:14.096931] Done with image 2008_000106.jpg
+[20:58:14.113886] Done with image 2008_000122.jpg
+[20:58:14.116877] Done with image 2008_000121.jpg
+[20:58:14.126851] Starting with image 2008_000136.jpg in folder source
+[20:58:14.134829] Done with image 2008_000124.jpg
+[20:58:14.147795] Starting with image City4.jpg in folder source
+[20:58:14.131837] Starting with image City2.jpg in folder source
+[20:58:14.142807] Done with image 2008_000136.jpg
+[20:58:14.157769] Starting with image City5.jpg in folder source
+[20:58:14.129844] Done with image 2008_000127.jpg
+[20:58:14.178712] Starting with image City6.jpg in folder source
+[20:58:14.131837] Starting with image City1.jpg in folder source
+[20:58:14.223591] Done with image City2.jpg
+[20:58:14.254509] Starting with image City7.jpg in folder source
+[20:58:14.143805] Done with image 2008_000129.jpg
+[20:58:14.322401] Starting with image City8.jpg in folder source
+[20:58:14.327387] Done with image City4.jpg
+[20:58:14.471004] Starting with image Colour1.jpg in folder source
+[20:58:14.520025] Done with image Mountains27.png
+[20:58:14.544959] Starting with image Colour11.jpg in folder source
+[20:58:14.148793] Done with image 2008_000135.jpg
+[20:58:14.563007] Starting with image Colour12.jpg in folder source
+[20:58:14.603898] Done with image City1.jpg
+[20:58:14.614328] Starting with image Colour13.jpg in folder source
+[20:58:14.539972] Done with image City7.jpg
+[20:58:14.673931] Starting with image Colour2.jpg in folder source
+[20:58:14.564005] Done with image City5.jpg
+[20:58:14.729395] Starting with image Colour3.jpg in folder source
+[20:58:14.755326] Done with image City8.jpg
+[20:58:14.781256] Starting with image Colour4.jpg in folder source
+[20:58:14.529001] Done with image City6.jpg
+[20:58:14.853232] Done with image Colour2.jpg
+[20:58:14.863205] Starting with image Colour6.jpg in folder source
+[20:58:14.855227] Starting with image Colour5.jpg in folder source
+[20:58:14.896117] Done with image Colour4.jpg
+[20:58:14.907088] Starting with image Colour7.jpg in folder source
+[20:58:14.840267] Done with image Colour3.jpg
+[20:58:14.924043] Starting with image Colour8.jpg in folder source
+[20:58:14.957952] Done with image Colour13.jpg
+[20:58:14.970917] Starting with image LandWater10.jpg in folder source
+[20:58:14.884149] Done with image Colour12.jpg
+[20:58:14.994853] Starting with image LandWater11.jpg in folder source
+[20:58:15.023776] Done with image Colour8.jpg
+[20:58:15.028764] Starting with image LandWater12.jpg in folder source
+[20:58:14.669942] Done with image Colour1.jpg
+[20:58:15.042725] Starting with image LandWater13.jpg in folder source
+[20:58:15.025772] Done with image Colour7.jpg
+[20:58:15.096581] Starting with image LandWater14.jpg in folder source
+[20:58:14.864202] Done with image Colour11.jpg
+[20:58:15.182352] Starting with image LandWater3.jpg in folder source
+[20:58:15.219314] Done with image Colour6.jpg
+[20:58:15.259207] Starting with image LandWater4.jpg in folder source
+[20:58:14.973910] Done with image Colour5.jpg
+[20:58:15.356452] Starting with image LandWater5.jpg in folder source
+[20:58:15.361439] Done with image LandWater11.jpg
+[20:58:15.438384] Done with image LandWater4.jpg
+[20:58:15.459328] Starting with image LandWater7.jpg in folder source
+[20:58:15.346383] Done with image LandWater12.jpg
+[20:58:15.488250] Starting with image LandWater8.jpg in folder source
+[20:58:15.505206] Done with image LandWater3.jpg
+[20:58:15.514181] Starting with image LandWater9.jpg in folder source
+[20:58:15.451349] Starting with image LandWater6.jpg in folder source
+[20:58:15.471296] Done with image LandWater13.jpg
+[20:58:15.577013] Starting with image Misc1.jpg in folder source
+[20:58:15.423425] Done with image LandWater10.jpg
+[20:58:15.629872] Starting with image Misc10.jpg in folder source
+[20:58:15.667841] Done with image Misc1.jpg
+[20:58:15.675822] Starting with image Misc11.jpg in folder source
+[20:58:15.713777] Done with image LandWater6.jpg
+[20:58:15.728736] Starting with image Misc2.jpg in folder source
+[20:58:15.755664] Done with image LandWater7.jpg
+[20:58:15.520166] Done with image LandWater14.jpg
+[20:58:15.793563] Done with image Misc10.jpg
+[20:58:15.803537] Starting with image Misc5.jpg in folder source
+[20:58:15.779601] Starting with image Misc3.jpg in folder source
+[20:58:15.800545] Starting with image Misc4.jpg in folder source
+[20:58:15.883230] Done with image Misc2.jpg
+[20:58:15.911747] Starting with image Misc7.jpg in folder source
+[20:58:15.699756] Done with image LandWater9.jpg
+[20:58:15.985467] Starting with image Misc8.jpg in folder source
+[20:58:15.582998] Done with image LandWater5.jpg
+[20:58:16.066575] Starting with image Misc9.jpg in folder source
+[20:58:16.112517] Done with image Misc5.jpg
+[20:58:16.127477] Starting with image Mountains1.jpg in folder source
+[20:58:16.068571] Done with image Misc11.jpg
+[20:58:16.176346] Starting with image Mountains10.jpg in folder source
+[20:58:16.041642] Done with image Misc4.jpg
+[20:58:16.253288] Starting with image Mountains11.jpg in folder source
+[20:58:16.233342] Done with image LandWater8.jpg
+[20:58:16.287198] Starting with image Mountains12.jpg in folder source
+[20:58:16.260272] Done with image Misc9.jpg
+[20:58:16.326094] Starting with image Mountains13.jpg in folder source
+[20:58:16.337065] Done with image Misc8.jpg
+[20:58:16.360003] Starting with image Mountains14.jpg in folder source
+[20:58:16.118502] Done with image Misc3.jpg
+[20:58:16.410933] Starting with image Mountains15.jpg in folder source
+[20:58:16.294179] Done with image Misc7.jpg
+[20:58:16.476922] Starting with image Mountains16.jpg in folder source
+[20:58:16.461919] Done with image Mountains12.jpg
+[20:58:16.523923] Starting with image Mountains17.jpg in folder source
+[20:58:16.257279] Done with image Mountains10.jpg
+[20:58:16.607020] Starting with image Mountains18.jpg in folder source
+[20:58:16.608017] Done with image Mountains11.jpg
+[20:58:16.663036] Starting with image Mountains19.jpg in folder source
+[20:58:16.470917] Done with image Mountains13.jpg
+[20:58:16.707938] Starting with image Mountains2.jpg in folder source
+[20:58:16.621980] Done with image Mountains14.jpg
+[20:58:16.794968] Starting with image Mountains20.jpg in folder source
+[20:58:16.822974] Done with image Mountains16.jpg
+[20:58:16.854958] Starting with image Mountains21.jpg in folder source
+[20:58:16.790979] Done with image Mountains1.jpg
+[20:58:16.935020] Done with image Mountains17.jpg
+[20:58:16.944074] Starting with image Mountains22.jpg in folder source
+[20:58:16.657051] Done with image Mountains15.jpg
+[20:58:16.984965] Starting with image Mountains25.jpg in folder source
+[20:58:17.015953] Done with image Mountains21.jpg
+[20:58:17.020940] Starting with image Mountains28.jpg in folder source
+[20:58:16.991946] Done with image Mountains20.jpg
+[20:58:17.035948] Starting with image Mountains29.jpg in folder source
+[20:58:16.947066] Starting with image Mountains24.jpg in folder source
+[20:58:16.916976] Done with image Mountains19.jpg
+[20:58:17.140899] Starting with image Mountains3.jpg in folder source
+[20:58:17.137906] Done with image Mountains22.jpg
+[20:58:17.222016] Starting with image Mountains30.jpg in folder source
+[20:58:17.282135] Done with image Mountains25.jpg
+[20:58:17.301084] Starting with image Mountains31.jpg in folder source
+[20:58:17.347051] Done with image Mountains24.jpg
+[20:58:17.379000] Starting with image Mountains4.jpg in folder source
+[20:58:17.399945] Done with image Mountains29.jpg
+[20:58:17.414952] Starting with image Mountains5.jpg in folder source
+[20:58:17.429942] Done with image Mountains3.jpg
+[20:58:17.448945] Starting with image Mountains6.jpg in folder source
+[20:58:17.381993] Done with image Mountains28.jpg
+[20:58:17.509015] Starting with image Mountains7.jpg in folder source
+[20:58:16.938091] Done with image Mountains18.jpg
+[20:58:17.589024] Starting with image Mountains9.jpg in folder source
+[20:58:17.563993] Done with image Mountains4.jpg
+[20:58:17.701250] Starting with image Nature1.jpg in folder source
+[20:58:17.331005] Done with image Mountains2.jpg
+[20:58:17.786160] Done with image Mountains7.jpg
+[20:58:17.802116] Starting with image Nature11.jpg in folder source
+[20:58:17.788154] Done with image Mountains6.jpg
+[20:58:17.832036] Starting with image Nature12.jpg in folder source
+[20:58:17.796131] Starting with image Nature10.jpg in folder source
+[20:58:17.891939] Done with image Nature1.jpg
+[20:58:17.595008] Done with image Mountains30.jpg
+[20:58:17.916961] Starting with image Nature15.jpg in folder source
+[20:58:17.906950] Done with image Mountains5.jpg
+[20:58:17.967960] Starting with image Nature16.jpg in folder source
+[20:58:17.895952] Starting with image Nature13.jpg in folder source
+[20:58:17.959984] Done with image Nature12.jpg
+[20:58:18.073967] Starting with image Nature17.jpg in folder source
+[20:58:18.090947] Done with image Nature10.jpg
+[20:58:18.137959] Starting with image Nature18.jpg in folder source
+[20:58:18.133969] Done with image Nature15.jpg
+[20:58:18.243939] Done with image Nature11.jpg
+[20:58:18.232952] Done with image Nature13.jpg
+[20:58:18.212978] Starting with image Nature19.jpg in folder source
+[20:58:17.778182] Done with image Mountains31.jpg
+[20:58:18.251919] Starting with image Nature2.jpg in folder source
+[20:58:18.252444] Starting with image Nature20.jpg in folder source
+[20:58:18.277940] Starting with image Nature21.jpg in folder source
+[20:58:18.339062] Done with image Nature16.jpg
+[20:58:18.435162] Done with image Nature21.jpg
+[20:58:18.474143] Starting with image Nature22.jpg in folder source
+[20:58:18.521268] Done with image Nature2.jpg
+[20:58:18.556177] Starting with image Nature24.jpg in folder source
+[20:58:18.594073] Done with image Nature18.jpg
+[20:58:18.627142] Starting with image Nature25.jpg in folder source
+[20:58:18.651080] Done with image Nature17.jpg
+[20:58:18.674017] Starting with image Nature26.jpg in folder source
+[20:58:18.621082] Done with image Mountains9.jpg
+[20:58:18.730994] Starting with image Nature27.jpg in folder source
+[20:58:18.747950] Done with image Nature22.jpg
+[20:58:18.755962] Done with image Nature24.jpg
+[20:58:18.762970] Starting with image Nature29.jpg in folder source
+[20:58:18.474143] Starting with image Nature23.jpg in folder source
+[20:58:18.757957] Starting with image Nature28.jpg in folder source
+[20:58:18.713042] Done with image Nature20.jpg
+[20:58:18.860980] Starting with image Nature3.jpg in folder source
+[20:58:18.816955] Done with image Nature23.jpg
+[20:58:18.912459] Starting with image Nature30.jpg in folder source
+[20:58:18.678007] Done with image Nature19.jpg
+[20:58:18.986962] Starting with image Nature31.jpg in folder source
+[20:58:18.977964] Done with image Nature25.jpg
+[20:58:19.073967] Starting with image Nature32.jpg in folder source
+[20:58:19.095957] Done with image Nature29.jpg
+[20:58:19.136943] Done with image Nature27.jpg
+[20:58:19.167996] Starting with image Nature34.jpg in folder source
+[20:58:18.867962] Done with image Nature26.jpg
+[20:58:19.216957] Starting with image Nature35.jpg in folder source
+[20:58:19.136943] Starting with image Nature33.jpg in folder source
+[20:58:19.172982] Done with image Nature28.jpg
+[20:58:19.380993] Starting with image Nature36.jpg in folder source
+[20:58:19.361046] Done with image Nature31.jpg
+[20:58:19.497941] Starting with image Nature37.jpg in folder source
+[20:58:19.501931] Done with image Nature32.jpg
+[20:58:19.582973] Starting with image Nature4.jpg in folder source
+[20:58:19.584969] Done with image Nature34.jpg
+[20:58:19.652802] Starting with image Nature5.jpg in folder source
+[20:58:19.611247] Done with image Nature35.jpg
+[20:58:19.744713] Done with image Nature33.jpg
+[20:58:19.786962] Starting with image Nature8.jpg in folder source
+[20:58:19.823864] Done with image Nature36.jpg
+[20:58:19.847430] Starting with image Nature9.jpg in folder source
+[20:58:19.330129] Done with image Nature30.jpg
+[20:58:19.926220] Starting with image Sand1.jpg in folder source
+[20:58:19.914252] Done with image Nature4.jpg
+[20:58:20.004094] Starting with image Sand2.jpg in folder source
+[20:58:19.748934] Starting with image Nature7.jpg in folder source
+[20:58:20.083030] Done with image Nature3.jpg
+[20:58:20.136098] Starting with image Space1.jpg in folder source
+[20:58:20.006090] Done with image Nature8.jpg
+[20:58:20.206064] Starting with image Space2.jpg in folder source
+[20:58:20.246036] Done with image Nature9.jpg
+[20:58:19.917244] Done with image Nature37.jpg
+[20:58:20.273962] Done with image Sand1.jpg
+[20:58:20.328899] Starting with image Water1.jpg in folder source
+[20:58:20.309949] Starting with image Space3.jpg in folder source
+[20:58:20.365801] Done with image Sand2.jpg
+[20:58:20.401704] Starting with image Water10.jpg in folder source
+[20:58:20.417661] Done with image Space2.jpg
+[20:58:20.446585] Starting with image Water11.jpg in folder source
+[20:58:20.331891] Done with image Space1.jpg
+[20:58:20.500501] Starting with image Water12.jpg in folder source
+[20:58:20.319923] Starting with image Space4.jpg in folder source
+[20:58:20.624046] Done with image Space3.jpg
+[20:58:20.648979] Starting with image Water13.jpg in folder source
+[20:58:20.638009] Done with image Water10.jpg
+[20:58:20.694856] Starting with image Water2.jpg in folder source
+[20:58:20.241968] Done with image Nature7.jpg
+[20:58:20.747715] Done with image Nature5.jpg
+[20:58:20.780627] Starting with image Water4.jpg in folder source
+[20:58:20.753700] Starting with image Water3.jpg in folder source
+[20:58:20.841567] Done with image Water12.jpg
+[20:58:20.869492] Starting with image Water5.jpg in folder source
+[20:58:20.912448] Done with image Water2.jpg
+[20:58:20.920427] Starting with image Water6.jpg in folder source
+[20:58:20.691864] Done with image Water11.jpg
+[20:58:20.996305] Starting with image Water7.jpg in folder source
+[20:58:20.661945] Done with image Water1.jpg
+[20:58:20.922422] Done with image Space4.jpg
+[20:58:21.066186] Starting with image Water9.jpg in folder source
+[20:58:21.015253] Done with image Water5.jpg
+[20:58:21.113060] Starting with image Wheat1.jpg in folder source
+[20:58:21.151956] Done with image Water3.jpg
+[20:58:21.174981] Done with image Water6.jpg
+[20:58:21.181962] Starting with image Wheat3.jpg in folder source
+[20:58:21.165973] Done with image Water7.jpg
+[20:58:21.211934] Starting with image Wheat4.jpg in folder source
+[20:58:21.057209] Starting with image Water8.jpg in folder source
+[20:58:21.281005] Done with image Water8.jpg
+[20:58:21.308954] Done with image Water4.jpg
+[20:58:21.013258] Done with image Water13.jpg
+[20:58:21.299953] Done with image Wheat1.jpg
+[20:58:21.177973] Starting with image Wheat2.jpg in folder source
+[20:58:21.392048] Done with image Water9.jpg
+[20:58:21.441084] Done with image Wheat3.jpg
+[20:58:21.537192] Done with image Wheat4.jpg
+[20:58:21.633611] Done with image Wheat2.jpg
+[20:58:21.731575] All images processed. (189 images processed)

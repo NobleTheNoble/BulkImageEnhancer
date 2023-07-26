@@ -1,18 +1,27 @@
 import os
-import random
 import multiprocessing
-import threading
-import time
 import glob
 from PIL import ImageEnhance
 from PIL import Image
 from argparse import ArgumentParser
-from time import sleep
+import datetime
+
+def print_with_timestamp(message, num_images_processed=None):
+    current_time = datetime.datetime.now()
+    formatted_time = current_time.strftime("%H:%M:%S.%f")
+    
+    if num_images_processed is not None:
+        message += f" ({num_images_processed} images processed)"
+    
+    log_message = f"[{formatted_time}] {message}"
+    print(log_message)
+    with open('logs.txt', 'a') as file:
+        file.write(log_message + '\n')
+        file.close()
 
 def init_images(source):
-    
     _list = []
-    #return list(range(10))
+
     for img in glob.glob(source + "/*.png"):
         _list.append(os.path.basename(img)) 
     
@@ -25,12 +34,10 @@ def init_images(source):
     return _list
 
 def process(path, source, output, brightness, contrast, sharpness):
-    print(f"starting with image {path} in folder {source}")
-    #sleep(random.randint(1, 3))
+    print_with_timestamp(f"Starting with image {path} in folder {source}")
     
     img = Image.open(f"{source}/{path}")
 
-    # enhance brightness...
     brightness_enhancer = ImageEnhance.Brightness(img)
     img = brightness_enhancer.enhance(brightness)
     
@@ -42,23 +49,27 @@ def process(path, source, output, brightness, contrast, sharpness):
     
     img.save(f"{output}/{path}")
     
-    print(f"done with image {path}")
+    print_with_timestamp(f"Done with image {path}")
     
 
 def multiprocess(source, output, time, brightness, contrast, sharpness, threads):
     
     if os.path.exists(source):
         paths = init_images(source)
+        processed_images = multiprocessing.Value('i', 0)
+
+        def process_callback(result):
+            with processed_images.get_lock():
+                processed_images.value += 1
 
         with multiprocessing.Pool(threads) as pool:
             for path in paths:
-                result = pool.apply_async(func=process, args=[path, source, output, brightness, contrast, sharpness])
-            
-            timer = threading.Timer(time * 60, pool.terminate)
-            timer.start()
-            timer.join()
-        
+                pool.apply_async(func=process, args=[path, source, output, brightness, contrast, sharpness], callback=process_callback)
+
+            pool.close()
             pool.join()
+
+            print_with_timestamp("All images processed.", processed_images.value)
     
         
 
@@ -78,11 +89,6 @@ if __name__ == '__main__':
 
     parser.add_argument('-t', '--threads', type=int, help='Number of threads to use.', default=4)
 
-
     args = parser.parse_args()
     
     multiprocess(args.source, args.output, args.time, args.brightness, args.contrast, args.sharpness, args.threads)
-    
-   
-        
-    
